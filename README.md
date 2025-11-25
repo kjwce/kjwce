@@ -13,7 +13,7 @@
 
 ✨ **Sophomore FIT@HCMUS-VNU**  
 🔭 **Aspiring Data Scientist / Data Engineer**  
-🌱 Currently exploring: **C++**, **Python**, **SQL** (and soon, **Pandas!**)  
+🌱 Currently exploring: **C++**, **Python**, **SQL**, and **Pandas**!  
 💡 Passionate about building models and collecting data to predict trends and patterns
 
 ---
