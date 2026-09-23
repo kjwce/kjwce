@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Sophomore-FIT@HCMUS--VNU-blue" alt="Sophomore Badge">
-  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-brightgreen" alt="Data Science Enthusiast">
+  <img src="https://img.shields.io/badge/FIT@HCMUS--VNU-f2e7e7" alt="Sophomore Badge">
+  <img src="https://img.shields.io/badge/Data%20Science-Enthusiast-92bd6b" alt="Data Science Enthusiast">
 </p>
 
 ---
 
 ## 🚀 About Me
 
-✨ **Sophomore FIT@HCMUS-VNU**  
+✨ **Student at FIT@HCMUS-VNU**  
 🔭 **Aspiring Data Scientist / Data Engineer**  
 🌱 Currently exploring: **C++**, **Python**, **SQL**, and **Pandas**!  
 💡 Passionate about building models and collecting data to predict trends and patterns
